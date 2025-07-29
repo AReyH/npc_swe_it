@@ -21,7 +21,7 @@ Each project/demo should live in its own folder and include:
 - Notes or slides if the demo accompanies a presentation
 
 Example structure:
-\
+/
 ├── project-a/
 │ ├── README.md
 │ └── ...
