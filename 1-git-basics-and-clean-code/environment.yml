@@ -1,0 +1,8 @@
+name: 1-git-basics-and-clean-code
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - seaborn
