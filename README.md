@@ -20,16 +20,6 @@ Each project/demo should live in its own folder and include:
 - All necessary code and dependencies
 - Notes or slides if the demo accompanies a presentation
 
-Example structure:
-/
-├── project-a/
-│ ├── README.md
-│ └── ...
-├── project-b/
-│ ├── README.md
-│ └── ...
-└── README.md
-
 
 ## Getting Started
 
