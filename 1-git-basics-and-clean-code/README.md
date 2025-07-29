@@ -1,4 +1,4 @@
-## 🔧 Working Smarter with Git & GitHub Workflows
+## Working Smarter with Git & GitHub Workflows
 
 ### Why Git & GitHub Matter
 
