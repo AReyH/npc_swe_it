@@ -1,5 +1,9 @@
 ## Working Smarter with Git & GitHub Workflows
 
+## **DO NOT PUSH THIS PART OF THE README**
+:)
+
+
 ### Why Git & GitHub Matter
 
 - Version control is the backbone of collaboration.
