@@ -57,11 +57,11 @@
 ## Sources
 
 - [SOLID Principles in JavaScript – DEV Community](https://dev.to/carlosazaustre/solid-principles-in-javascript-123c)
+- [About Git – GitHub Docs](https://docs.github.com/en/get-started/using-git/about-git)
+- [GitHub Actions Documentation](https://docs.github.com/en/actions)
+
 
 
 
 ## **DO NOT PUSH THIS PART OF THE README**
 :)
-
-- [About Git – GitHub Docs](https://docs.github.com/en/get-started/using-git/about-git)
-- [GitHub Actions Documentation](https://docs.github.com/en/actions)
