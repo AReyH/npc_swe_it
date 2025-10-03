@@ -12,6 +12,7 @@ def sum_even_numbers(numbers):
     total = 0
     for number in numbers:
         if number % 2 == 0:
+            # This is code.
             total += number
     return total
 
